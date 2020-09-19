@@ -25,7 +25,7 @@
 ### [Email](mailto:minibox724@gmail.com)
 
 
-## 프로필 사진
+## 🧑 프로필 사진
 > ![](images/mini128.png)
 >
 > Ra_Tang님이 제작!
