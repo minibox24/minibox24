@@ -1,2 +1,2 @@
 # hi 👋
-[http://minibox.xyz/](http://minibox.xyz/)
+[https://minibox.xyz/](https://minibox.xyz/)
